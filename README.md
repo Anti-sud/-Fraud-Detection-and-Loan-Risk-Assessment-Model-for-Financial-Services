@@ -22,7 +22,7 @@ This project demonstrates how to build scalable fraud detection and credit risk 
   - Outlier capping (1st and 99th percentiles)
   - Ratio-based feature engineering
   - Time-based feature extraction
-  - Placeholder transaction aggregations (future enhancement)
+  
 
 - **Imbalance Handling**:
   - SMOTE for minority oversampling in training data
